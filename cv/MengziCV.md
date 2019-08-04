@@ -5,10 +5,7 @@
 - 测试开发工程师
 
 ## 基本信息
-
-<img src="https://github.com/YeBax/MyCV/blob/master/media/imgs/header2019.JPG?raw=true" align='left'/>
-
-
+- <img src="https://github.com/YeBax/MyCV/blob/master/media/imgs/header2019.JPG?raw=true" align='left'/>
 - **姓名：**孙孟孜
 - **年龄：**24岁
 - **籍贯：**北京
@@ -104,7 +101,7 @@
 > 
 > **负责内容：**系统框架的设计，数据库设计，后台的开发工作，数据采集设计，使用Django框架和Xadmin开发后台管平台等工作。组织人员数据的爬取和整理。
 
-##致谢
+## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 最后修改时间：2019年8月2日
