@@ -5,7 +5,9 @@
 - 测试开发工程师
 
 ## 基本信息
+
 <img src="https://github.com/YeBax/MyCV/blob/master/media/imgs/header2019.JPG?raw=true" style='float: left'/>
+
 - **姓名：**孙孟孜
 - **年龄：**24岁
 - **籍贯：**北京
