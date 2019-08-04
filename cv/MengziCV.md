@@ -8,6 +8,7 @@
 
 <img src="https://github.com/YeBax/MyCV/blob/master/media/imgs/header2019.JPG?raw=true" align='left'/>
 
+
 - **姓名：**孙孟孜
 - **年龄：**24岁
 - **籍贯：**北京
@@ -15,7 +16,7 @@
 - **专业：**计算机科学与技术
 - **工作年限：**三年
 - **GitHub：**[https://github.com/YeBax](https://github.com/YeBax "点击进入yebax的GitHub主页：https://github.com/YeBax")
-- **CV：**https://
+- **CV：**[我的简历](https://github.com/YeBax/MyCV/blob/master/cv/MengziCV.md "请点击查看简历")
 
 ## 联系方式
 - **手机号：**17090099130
